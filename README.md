@@ -5,13 +5,13 @@ Cada estudiante deberá modificar este archivo **README.md**, colocando un emoji
 
 ## 📌 Participantes
 
-0. 🚀 **Belman Marin Franco**
+1. 🚀 **Belman Marin Franco**
 2. 🎸 **María López**
 3. 🏀 **Carlos Ramírez**
 4. 🎨 **Ana Torres**
 5. 🎉 **Frank Caceres**
-6. **Kevin Andres Rojas**
-
+11.🛹 **Esteban Velandia**
+   
 ---
 
 ## 🛠 Ayuda para Markdown
